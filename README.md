@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Oussama Ibn Hmida
+# Hi there 👋 I'm Oussama
 
 ### Senior Software Engineer | Flutter & Backend Specialist
 
