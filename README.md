@@ -43,9 +43,18 @@ I'm proud of all my professional journey, with particular highlights from my rol
 
 ---
 
+### 🎓 Education
+**Bachelor's Degree**
+
+National Institute of Applied Science and Technology (2016-2021)
+
+---
+
 ### 📫 Let's Connect!
 
 I'm always open to discussing new projects, collaboration opportunities, or innovative ideas. Feel free to reach out!
 
 * **Email**: `bh.oussama@outlook.com`
-* **WhatsApp**: `+216 93 734 839`
+* **Phone (WhatsApp available)**: `+216 93 734 839`
+* **View My Full CV**: [Oussama Ibn Hmida - Full CV](https://github.com/user-attachments/files/21486240/CV.-.Oussama.Ibn.Hmida.pdf)
+
