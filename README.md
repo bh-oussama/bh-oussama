@@ -20,7 +20,7 @@ Here are some of the technologies and tools I work with:
 * **Backend & APIs**: NestJS, TypeScript, REST, SQL, NoSQL
 * **Databases**: MongoDB, Firebase, Redis
 * **DevOps & Cloud**: Kubernetes, Docker, CI/CD (GitLab)
-* **Testing**: Unit, E2E Testing
+* **Testing**: Jest, E2E Testing
 
 ---
 
