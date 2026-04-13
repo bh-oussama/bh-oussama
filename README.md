@@ -1,60 +1,59 @@
 # Hi there 👋 I'm Oussama
 
-### Senior Software Engineer | Flutter & Backend Specialist
+### Senior Software Engineer | Flutter & Full-Stack Specialist
 
-Welcome to my GitHub! I'm a passionate Software Engineer with a deep expertise in crafting robust, scalable, and user-centric applications. My work spans the full stack, from intuitive mobile frontends with Flutter to high-performance backend services. I thrive on engineering comprehensive software solutions that not only meet current demands but also lay the groundwork for future technical opportunities, empowering teams to build with confidence.
-
----
-
-### 🚀 What I Do Best
-
-My unique strength lies in my holistic approach to software engineering. I don't just develop applications; I architect resilient and scalable solutions, particularly for high-concurrency mobile environments. This foundational engineering focus ensures optimal performance and reliability, while also providing a clear technical runway for innovation. My blend of mobile (Flutter) and backend expertise allows me to bridge the full stack, tackling complex challenges comprehensively and delivering exceptional value.
+Software Engineer with 7+ years of experience building mobile and web applications end-to-end. I lead cross-functional teams, architect microservices migrations, and ship products across retail, agriculture, social, and hospitality domains. Proven track record of taking projects from zero to production as a solo developer and leading teams of up to five engineers.
 
 ---
 
 ### 💻 Skills & Technologies
 
-Here are some of the technologies and tools I work with:
-
-* **Mobile Development**: Flutter, Dart, Android
-* **Backend & APIs**: NestJS, TypeScript, REST, SQL, NoSQL
-* **Databases**: MongoDB, Firebase, Redis
-* **DevOps & Cloud**: Kubernetes, Docker, CI/CD (GitLab)
-* **Testing**: Jest, E2E Testing
+* **Mobile Development**: Flutter, Dart, Android, iOS
+* **Backend & APIs**: Node.js, NestJS, TypeScript, REST APIs, WebSockets
+* **Databases**: MongoDB, PostgreSQL, SQLite, Firebase, Cloud Firestore, Redis
+* **Infrastructure & DevOps**: Docker, Kubernetes, AWS, GCP, CI/CD (GitLab, Jenkins, GitHub Actions)
+* **Tools**: Figma, Sentry, Google Analytics, Datadog
 
 ---
 
-### ✨ Professional Experience Highlights
+### ✨ Professional Experience
 
-I'm proud of all my professional journey, with particular highlights from my roles where I focused on scalable architecture and impactful product development.
+#### Senior Flutter Developer — Toptal (Freelance) | 2025 – Present
 
-#### Senior Flutter Developer at Forward Thinking (2022-2025)
+Building two MVPs from scratch as the sole developer:
 
-* Spearheaded the development of critical Retail and Farming modules, optimizing demand forecasting, inventory management, and ensuring seamless data migration for a leading industry client.
-* Engineered intuitive crop planning tools that dramatically reduced setup times and implemented a real-time collaboration platform to streamline complex workflows.
-* Translated intricate Figma designs into fully responsive Flutter applications, ensuring pixel-perfect design consistency and an optimized user experience across mobile and web platforms.
+* **Social Discovery App (US Market)** — Designed a multi-provider data aggregation layer integrating Tripadvisor, Viator, and Google Maps APIs with provider-specific caching and a feed ranking system balancing freshness, cost, and relevance.
+* **Real-Time Dine-In Reservation App (Indian Market)** — Designed a real-time dine-in reservation platform from the ground up. Implemented live location sync between customers and restaurants with event-driven logic that coordinates meal preparation timing with customer ETA, triggering automated workflows such as order locking and kitchen prep.
+  
+#### Senior Flutter Developer — Forward Thinking | 2022 – 2025
 
-#### Backend Developer at Nexaminds (2021-2022)
+* Developed retail and farming modules for a fresh-cut industry leader, replacing spreadsheet-based workflows with real-time digital coordination and crop planning tools that reduced setup time from three days to seconds.
+* Built a centralized communication platform replacing phone calls with structured requests, approvals, and instant notifications. Developed migration tools and delivered fully responsive Flutter apps across mobile and web.
 
-* Managed a five-member web development team, guiding project execution and fostering a collaborative environment.
-* Successfully optimized the backend architecture by migrating from a monolithic structure to a scalable microservices model.
-* Streamlined CI/CD pipelines on GitLab with Kubernetes, significantly improving deployment efficiency and reliability.
-* Fine-tuned system performance and led comprehensive unit and End-to-End (E2E) testing with automated reporting, ensuring high code quality and system stability.
+#### Mobile Developer → Lead Web Developer — Nexaminds | 2020 – 2022
+
+* Built a Flutter-based dating app from scratch, owning the full lifecycle from repo setup through feature delivery. Established CI/CD workflows and testing frameworks covering unit, widget, and integration tests.
+* Promoted to lead a five-member web team. Architected the migration from a monolithic backend to microservices using NestJS, Docker, and Kubernetes. Managed CI/CD pipelines and drove performance optimizations across deployed services.
+
+#### Flutter & VR Developer — Freelance | 2019 – 2020
+
+* Developed applications across healthcare, transportation, and education — delivering real-time scheduling, live location tracking, automated billing, and interactive VR courses for Oculus Go.
+
 
 ---
 
 ### 🎓 Education
-**Bachelor's Degree**
 
-National Institute of Applied Science and Technology (2016-2021)
+**Bachelor’s Degree in Software Engineering** and **Master's Degree in Software Engineering** 
+
+At National Institute of Applied Science and Technology, Tunis (2016 – 2021)
+
 
 ---
 
-### 📫 Let's Connect!
+### 📫 Let's Connect
 
-I'm always open to discussing new projects, collaboration opportunities, or innovative ideas. Feel free to reach out!
-
-* **Email**: `bh.oussama@outlook.com`
-* **Phone (WhatsApp available)**: `+216 93 734 839`
-* **View My Full CV**: [Oussama Ibn Hmida - Full CV](https://github.com/user-attachments/files/21486240/CV.-.Oussama.Ibn.Hmida.pdf)
-
+* **Email**: `o.ibnhmida@gmail.com`
+* **Phone (WhatsApp)**: `+216 93 734 839`
+* **Toptal**: [Profile](https://www.toptal.com/developers/resume/oussama-ibn-hmida)
+* **View My Full CV**: [Download as PDF](https://github.com/user-attachments/files/26685139/Oussama.Ibn.Hmida.-.CV.pdf)
