@@ -53,7 +53,7 @@ At National Institute of Applied Science and Technology, Tunis (2016 – 2021)
 
 ### 📫 Let's Connect
 
-* **Email**: [`o.ibnhmida@gmail.com`](mailto:o.ibnhmida@gmail.com)
-* **Phone (WhatsApp)**: [`+216 93 734 839`](tel:+21693734839)
+* **Email**: `o.ibnhmida@gmail.com`
+* **Phone (WhatsApp)**: `+216 93 734 839`
 * **Toptal**: [Profile](https://www.toptal.com/developers/resume/oussama-ibn-hmida)
 * **View My Full CV**: [Download as PDF](https://github.com/user-attachments/files/26685139/Oussama.Ibn.Hmida.-.CV.pdf)
